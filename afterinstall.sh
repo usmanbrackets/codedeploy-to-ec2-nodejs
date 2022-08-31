@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "how are you after build "
+echo "how are you after build"
